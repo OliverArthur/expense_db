@@ -1,1 +1,35 @@
 
+{
+  "page": 1,
+  "total_transactions": 4,
+  "total_pages": 1,
+  "transactions": [{
+    "id": 1,
+    "title": "MacBook pro",
+    "amount": 2500.45,
+    "date": "2020-07-22 21:47:54.716605",
+    "note": "",
+    "file": ""
+  }, {
+    "id": 2,
+    "title": "Display monitor",
+    "amount": 250.45,
+    "date": "2020-07-22 21:47:54.716605",
+    "note": "",
+    "file": ""
+  }, {
+    "id": 3,
+    "title": "Display monitor",
+    "amount": 250.45,
+    "date": "2020-07-22 21:47:54.716605",
+    "note": "",
+    "file": ""
+  }, {
+    "id": 4,
+    "title": "Display adapter",
+    "amount": 29.99,
+    "date": "2020-07-22 21:47:54.716605",
+    "note": "",
+    "file": ""
+  }]
+}
